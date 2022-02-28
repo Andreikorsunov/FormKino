@@ -1,0 +1,11 @@
+C:\Users\fermo\source\repos\FormKino\bin\Debug\AppData\DTBkino.mdf
+C:\Users\fermo\source\repos\FormKino\bin\Debug\AppData\DTBkino_log.ldf
+C:\Users\fermo\source\repos\FormKino\bin\Debug\MinuVorm.exe.config
+C:\Users\fermo\source\repos\FormKino\bin\Debug\MinuVorm.exe
+C:\Users\fermo\source\repos\FormKino\bin\Debug\MinuVorm.pdb
+C:\Users\fermo\source\repos\FormKino\obj\Debug\FormKino.csproj.AssemblyReference.cache
+C:\Users\fermo\source\repos\FormKino\obj\Debug\MinuVorm.Properties.Resources.resources
+C:\Users\fermo\source\repos\FormKino\obj\Debug\FormKino.csproj.GenerateResource.cache
+C:\Users\fermo\source\repos\FormKino\obj\Debug\FormKino.csproj.CoreCompileInputs.cache
+C:\Users\fermo\source\repos\FormKino\obj\Debug\MinuVorm.exe
+C:\Users\fermo\source\repos\FormKino\obj\Debug\MinuVorm.pdb

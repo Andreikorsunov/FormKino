@@ -1,0 +1,11 @@
+C:\Users\fermo\source\repos\Kinoform\bin\Debug\AppData\DTBkino.mdf
+C:\Users\fermo\source\repos\Kinoform\bin\Debug\AppData\DTBkino_log.ldf
+C:\Users\fermo\source\repos\Kinoform\bin\Debug\MinuVorm.exe.config
+C:\Users\fermo\source\repos\Kinoform\bin\Debug\MinuVorm.exe
+C:\Users\fermo\source\repos\Kinoform\bin\Debug\MinuVorm.pdb
+C:\Users\fermo\source\repos\Kinoform\obj\Debug\Kinoform.csproj.AssemblyReference.cache
+C:\Users\fermo\source\repos\Kinoform\obj\Debug\MinuVorm.Properties.Resources.resources
+C:\Users\fermo\source\repos\Kinoform\obj\Debug\Kinoform.csproj.GenerateResource.cache
+C:\Users\fermo\source\repos\Kinoform\obj\Debug\Kinoform.csproj.CoreCompileInputs.cache
+C:\Users\fermo\source\repos\Kinoform\obj\Debug\MinuVorm.exe
+C:\Users\fermo\source\repos\Kinoform\obj\Debug\MinuVorm.pdb
