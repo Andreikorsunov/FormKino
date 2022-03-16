@@ -103,7 +103,7 @@ namespace Kinoform
             smtpClient.EnableSsl = true;
             smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtpClient.UseDefaultCredentials = false;
-            smtpClient.Credentials = new NetworkCredential(fromAdress.Address, "djamshutik229");
+            smtpClient.Credentials = new NetworkCredential(fromAdress.Address, "sinu parool");
             try
             {
                 string email = Interaction.InputBox("Sisesta oma emaili, me saadame sulle info ostetud pileti kohta", "Email");
